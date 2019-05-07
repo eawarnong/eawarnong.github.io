@@ -1,2 +1,2 @@
-# eawarnong.github.io
-see page eawarnong.github.io
+# tinnamon.github.io
+see page tinnamon.github.io
