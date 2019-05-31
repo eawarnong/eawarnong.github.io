@@ -1,2 +1,2 @@
-# tinnamon.github.io
-see page tinnamon.github.io
+# cikareto.github.io
+see page cikareto.github.io
